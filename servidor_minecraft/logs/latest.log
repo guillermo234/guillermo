@@ -1093,3 +1093,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 04:22:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Sea Serpent
 [11Jan2025 04:22:42.893] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
 [11Jan2025 04:24:44.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Jan2025 04:25:59.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Jan2025 04:26:19.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5050ms or 101 ticks behind
+[11Jan2025 04:26:41.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Jan2025 04:26:54.260] [Worker-Main-75/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[11Jan2025 04:26:55.090] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=983, y=-13, z=-855}
+[11Jan2025 04:27:00.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[11Jan2025 04:27:16.180] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=1035, y=69, z=-1099}
+[11Jan2025 04:27:17.253] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1035, y=68, z=-1100} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[11Jan2025 04:27:17.253] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=1035, y=68, z=-1100}
+[11Jan2025 04:27:17.253] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1035, y=69, z=-1099} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[11Jan2025 04:27:17.253] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=1035, y=69, z=-1099}
+[11Jan2025 04:27:17.254] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1035, y=69, z=-1100} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[11Jan2025 04:27:17.254] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=1035, y=69, z=-1100}
+[11Jan2025 04:27:19.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3892ms or 77 ticks behind
+[11Jan2025 04:27:36.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
+[11Jan2025 04:27:47.873] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1165, y=-18, z=-1120} but found not block entity block Block{minecraft:lava}[level=2] at location
+[11Jan2025 04:27:47.873] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=2] but failed at location BlockPos{x=1165, y=-18, z=-1120}
+[11Jan2025 04:27:58.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11Jan2025 04:28:22.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Jan2025 04:28:55.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11Jan2025 04:29:03.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Ice Dragon
+[11Jan2025 04:29:03.450] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[11Jan2025 04:29:30.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[11Jan2025 04:30:03.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Sea Serpent
+[11Jan2025 04:30:03.631] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[11Jan2025 04:30:05.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Jan2025 04:30:23.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ZZZZZZZZZZ
+[11Jan2025 04:30:46.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Ice Dragon
+[11Jan2025 04:30:46.192] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[11Jan2025 04:31:12.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11Jan2025 04:31:27.501] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/94788, l='ServerLevel[world]', x=1344.50, y=75.00, z=-989.50]
+[11Jan2025 04:31:35.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[11Jan2025 04:31:52.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[11Jan2025 04:32:16.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Jan2025 04:32:20.680] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/95601, l='ServerLevel[world]', x=1471.50, y=72.00, z=-834.50]
+[11Jan2025 04:32:24.762] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/95625, l='ServerLevel[world]', x=1464.50, y=72.00, z=-859.50]
+[11Jan2025 04:32:39.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11Jan2025 04:33:00.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[11Jan2025 04:33:26.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vale lost connection: Disconnected
+[11Jan2025 04:33:26.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale left the game
+[11Jan2025 04:35:09.467] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity minecraft:mob_spawner @ BlockPos{x=836, y=5, z=-8995} state Block{minecraft:chest}[facing=south,type=single,waterlogged=false] invalid for ticking:
+[11Jan2025 04:36:23.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkSenior lost connection: Disconnected
+[11Jan2025 04:36:23.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkSenior left the game
