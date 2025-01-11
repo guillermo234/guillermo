@@ -213,6 +213,7 @@
       "minecraft:witch": "2024-12-31 04:19:14 +0000",
       "minecraft:wither_skeleton": "2024-12-29 03:16:52 +0000",
       "minecraft:husk": "2024-12-30 21:56:00 +0000",
+      "minecraft:cave_spider": "2025-01-11 03:18:53 +0000",
       "minecraft:silverfish": "2025-01-03 03:21:17 +0000",
       "minecraft:enderman": "2025-01-03 05:50:48 +0000",
       "minecraft:vex": "2025-01-08 23:18:29 +0000",
@@ -885,6 +886,12 @@
       "kill_naga": "2025-01-11 03:07:12 +0000"
     },
     "done": false
+  },
+  "twilightforest:hill3": {
+    "criteria": {
+      "redcap": "2025-01-11 03:21:21 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
