@@ -627,3 +627,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 02:33:10.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzzz
 [11Jan2025 02:35:11.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkSenior> zzz
 [11Jan2025 02:35:18.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzz
+[11Jan2025 02:45:07.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vale[/100.70.125.24:50593] logged in with entity id 22586 at (-57.651084872512655, 115.0, -1181.4836463537524)
+[11Jan2025 02:45:07.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale joined the game
+[11Jan2025 02:48:02.864] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23566, l='ServerLevel[world]', x=-125.31, y=-256.00, z=-417.09] died, message: 'Villager was killed'
+[11Jan2025 02:48:30.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> viciooo
+[11Jan2025 02:50:23.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guillermo[/100.72.57.89:51562] logged in with entity id 24186 at (-5.744879049859042, 83.0, -1101.5319066446577)
+[11Jan2025 02:50:23.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo joined the game
+[11Jan2025 02:50:31.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkSenior> zzzzz
+[11Jan2025 02:51:01.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24601, l='ServerLevel[world]', x=-14.60, y=-256.00, z=-1207.79] died, message: 'Villager was killed'
+[11Jan2025 02:53:03.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25430, l='ServerLevel[world]', x=18.04, y=-256.00, z=-1130.71] died, message: 'Villager was killed'
