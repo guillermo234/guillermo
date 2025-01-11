@@ -856,5 +856,23 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "boar": "2025-01-11 00:32:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "liveroot": "2025-01-11 00:34:31 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-01-11 00:31:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
