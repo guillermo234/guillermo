@@ -1138,3 +1138,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 04:36:23.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkSenior left the game
 [11Jan2025 04:37:32.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [Bug Stomper]
 [11Jan2025 04:38:28.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Bug Stomper]
+[11Jan2025 04:47:09.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo moved too quickly! 6.010666651995507,3.6310050973416583,7.994010120970415

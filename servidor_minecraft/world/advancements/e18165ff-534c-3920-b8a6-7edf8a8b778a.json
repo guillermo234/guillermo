@@ -896,6 +896,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_venison": "2025-01-11 04:55:36 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2025-01-11 03:07:12 +0000"
