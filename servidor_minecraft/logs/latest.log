@@ -996,3 +996,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 03:42:13.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM was slain by Forgotten
 [11Jan2025 03:42:14.221] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
 [11Jan2025 03:42:48.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has reached the goal [This Belongs in a Museum]
+[11Jan2025 03:46:49.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vale moved too quickly! -9.314304403251874,0.0,-4.044316708067299
+[11Jan2025 03:49:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [I See Right Through You]
+[11Jan2025 03:49:18.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo moved wrongly!

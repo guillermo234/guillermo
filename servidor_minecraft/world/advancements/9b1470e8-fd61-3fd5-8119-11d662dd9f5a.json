@@ -869,6 +869,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_venison": "2025-01-11 03:46:53 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-01-11 03:07:12 +0000"

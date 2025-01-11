@@ -191,6 +191,7 @@
       "cooked_rabbit": "2024-12-30 22:17:22 +0000",
       "cooked_chicken": "2024-12-30 22:41:02 +0000",
       "mushroom_stew": "2025-01-03 18:59:47 +0000",
+      "cod": "2025-01-11 03:54:01 +0000",
       "carrot": "2024-12-29 04:01:41 +0000"
     },
     "done": false
@@ -288,6 +289,7 @@
       "minecraft:cave_spider": "2025-01-10 00:22:10 +0000",
       "minecraft:piglin": "2025-01-03 20:44:30 +0000",
       "minecraft:stray": "2024-12-29 04:35:39 +0000",
+      "minecraft:enderman": "2025-01-11 03:49:56 +0000",
       "minecraft:vex": "2024-12-30 23:09:20 +0000",
       "minecraft:zombie": "2024-12-29 03:54:11 +0000",
       "minecraft:drowned": "2025-01-03 02:49:51 +0000",
@@ -910,6 +912,12 @@
       "kill_naga": "2025-01-11 03:07:12 +0000"
     },
     "done": false
+  },
+  "twilightforest:hill3": {
+    "criteria": {
+      "redcap": "2025-01-11 03:49:01 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
