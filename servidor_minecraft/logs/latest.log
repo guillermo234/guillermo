@@ -2,3 +2,6 @@
 [11Jan2025 00:31:52.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM moved too quickly! -981.3190004272925,-94.92159999847412,-3042.8645570709577
 [11Jan2025 00:32:26.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [The Silence of the Forest]
 [11Jan2025 01:15:36.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Enchanter]
+[11Jan2025 01:19:59.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Rotten to the Core]
+[11Jan2025 01:24:26.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM lost connection: Disconnected
+[11Jan2025 01:24:26.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM left the game
