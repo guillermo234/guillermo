@@ -607,3 +607,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 01:46:00.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShandeMM[/100.123.117.40:63181] logged in with entity id 1444 at (11.142865425013628, 117.5, -1135.4014621981005)
 [11Jan2025 01:46:01.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM joined the game
 [11Jan2025 01:46:04.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
+[11Jan2025 02:03:22.462] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7195, l='ServerLevel[world]', x=-125.50, y=-256.00, z=-417.03] died, message: 'Villager was killed'
+[11Jan2025 02:12:04.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkSenior[/100.88.70.10:62201] logged in with entity id 8365 at (-23.119825362288676, 95.0, -1210.5057921080008)
+[11Jan2025 02:12:04.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkSenior joined the game
+[11Jan2025 02:14:19.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkSenior> vas apostar el domingo ?
+[11Jan2025 02:14:25.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> todo al barca
+[11Jan2025 02:14:36.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkSenior> le voy a meter 50 soles
+[11Jan2025 02:14:55.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> tiro de rafiña y gana barca
+[11Jan2025 02:14:56.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> mas na
+[11Jan2025 02:17:53.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10660, l='ServerLevel[world]', x=-131.53, y=-256.00, z=-417.03] died, message: 'Villager was killed'
+[11Jan2025 02:18:47.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzz
+[11Jan2025 02:19:31.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkSenior> zzzz
+[11Jan2025 02:19:39.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkSenior> puede ser mano
+[11Jan2025 02:19:51.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkSenior> esa apuesta esta buena
+[11Jan2025 02:23:36.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkSenior was blown up by Faller
+[11Jan2025 02:23:36.196] [Server thread/INFO] [tombstone/]: The player DarkSenior has successfully been saved
+[11Jan2025 02:32:23.864] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18450, l='ServerLevel[world]', x=-14.60, y=-256.00, z=-1207.79] died, message: 'Villager was killed'
