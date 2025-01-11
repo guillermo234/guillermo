@@ -640,3 +640,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 21:10:00.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM lost connection: Disconnected
 [11Jan2025 21:10:00.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM left the game
 [11Jan2025 21:18:27.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66133, l='ServerLevel[world]', x=18.04, y=-256.00, z=-1130.71] died, message: 'Villager was killed'
+[11Jan2025 21:32:41.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67466, l='ServerLevel[world]', x=-20.99, y=-256.00, z=-1216.69] died, message: 'Villager was killed'
+[11Jan2025 21:34:19.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67590, l='ServerLevel[world]', x=-13.67, y=-256.00, z=-1207.65] died, message: 'Villager was killed'
+[11Jan2025 21:35:24.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67673, l='ServerLevel[world]', x=-13.67, y=-256.00, z=-1207.65] died, message: 'Villager was killed'
+[11Jan2025 21:35:28.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67679, l='ServerLevel[world]', x=18.04, y=-256.00, z=-1130.71] died, message: 'Villager was killed'
