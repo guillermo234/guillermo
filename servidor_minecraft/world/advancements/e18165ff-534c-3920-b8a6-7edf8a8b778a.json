@@ -898,7 +898,8 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "raw_venison": "2025-01-11 04:55:36 +0000"
+      "raw_venison": "2025-01-11 04:55:36 +0000",
+      "cooked_venison": "2025-01-11 04:57:04 +0000"
     },
     "done": false
   },
