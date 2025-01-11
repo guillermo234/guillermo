@@ -616,3 +616,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 18:37:04.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> esa cgd anda en tu casa con el porro?
 [11Jan2025 18:37:21.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ShandeMM:  JAJAJAJAJA TAMBIEN TE DIJO A TI?
 [11Jan2025 18:37:30.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> si ps ese loco con mi abuela aca jajaj
+[11Jan2025 18:55:09.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26328, l='ServerLevel[world]', x=-125.31, y=-256.00, z=-417.09] died, message: 'Villager was killed'
