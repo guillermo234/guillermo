@@ -628,3 +628,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 19:29:17.356] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
 [11Jan2025 19:29:58.217] [Server thread/WARN] [tombstone/]: The death event of the player Guillermo was canceled by another mod
 [11Jan2025 19:29:58.226] [Server thread/INFO] [tombstone/]: The player Guillermo has successfully been saved
+[11Jan2025 19:40:26.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35000, l='ServerLevel[world]', x=840.48, y=78.00, z=-459.60] died, message: 'Villager was incinerated by Fire Dragon'
+[11Jan2025 19:47:11.944] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/39085, l='ServerLevel[world]', x=1088.16, y=85.81, z=-524.96]
+[11Jan2025 19:47:11.944] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/39086, l='ServerLevel[world]', x=1088.04, y=85.93, z=-523.19]
+[11Jan2025 19:47:11.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/39089, l='ServerLevel[world]', x=1088.02, y=86.95, z=-528.33]
+[11Jan2025 19:47:11.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/39090, l='ServerLevel[world]', x=1088.02, y=86.93, z=-526.87]
+[11Jan2025 19:47:11.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/39091, l='ServerLevel[world]', x=1088.03, y=86.79, z=-525.71]
+[11Jan2025 19:47:11.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/39092, l='ServerLevel[world]', x=1088.03, y=86.57, z=-524.26]
+[11Jan2025 20:16:07.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [A Bone to Pick]
