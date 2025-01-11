@@ -896,22 +896,9 @@
     },
     "done": true
   },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "raw_venison": "2025-01-11 04:55:36 +0000",
-      "cooked_venison": "2025-01-11 04:57:04 +0000"
-    },
-    "done": false
-  },
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2025-01-11 03:07:12 +0000"
-    },
-    "done": true
-  },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2025-01-11 03:42:48 +0000"
     },
     "done": true
   },
@@ -920,6 +907,12 @@
       "kill_naga": "2025-01-11 03:07:12 +0000"
     },
     "done": false
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-01-11 03:42:48 +0000"
+    },
+    "done": true
   },
   "twilightforest:hill3": {
     "criteria": {
@@ -932,6 +925,13 @@
       "hedge_spider": "2025-01-11 04:38:28 +0000"
     },
     "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_venison": "2025-01-11 04:55:36 +0000",
+      "cooked_venison": "2025-01-11 04:57:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
