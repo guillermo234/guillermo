@@ -1136,3 +1136,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 04:35:09.467] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity minecraft:mob_spawner @ BlockPos{x=836, y=5, z=-8995} state Block{minecraft:chest}[facing=south,type=single,waterlogged=false] invalid for ticking:
 [11Jan2025 04:36:23.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkSenior lost connection: Disconnected
 [11Jan2025 04:36:23.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkSenior left the game
+[11Jan2025 04:37:32.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [Bug Stomper]
+[11Jan2025 04:38:28.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Bug Stomper]
