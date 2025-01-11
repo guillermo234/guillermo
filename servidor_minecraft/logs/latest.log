@@ -999,3 +999,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 03:46:49.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vale moved too quickly! -9.314304403251874,0.0,-4.044316708067299
 [11Jan2025 03:49:01.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [I See Right Through You]
 [11Jan2025 03:49:18.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo moved wrongly!
+[11Jan2025 04:07:56.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has made the advancement [We Need to Go Deeper]
+[11Jan2025 04:07:56.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has made the advancement [Incendium]
+[11Jan2025 04:08:00.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo moved too quickly! 6.970309474802889,-0.750812921255319,7.343254090877963
+[11Jan2025 04:08:00.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4183ms or 83 ticks behind
+[11Jan2025 04:08:00.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has made the advancement [Strange Biomes]
+[11Jan2025 04:08:01.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was killed by [Intentional Game Design]
+[11Jan2025 04:08:01.786] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[11Jan2025 04:08:41.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[11Jan2025 04:08:44.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/72184, l='ServerLevel[world]', x=-35.34, y=-20.00, z=-50.35] died: Restless Spirit was killed
+[11Jan2025 04:08:53.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has made the advancement [Nightmare Fuel]
+[11Jan2025 04:08:58.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
+[11Jan2025 04:09:19.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/73639, l='ServerLevel[world]', x=18.04, y=-256.00, z=-1130.71] died, message: 'Villager was killed'
+[11Jan2025 04:09:22.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Crimson Mosquito
+[11Jan2025 04:09:22.095] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[11Jan2025 04:11:09.470] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/72874, l='ServerLevel[world]', x=-46.76, y=-20.00, z=-76.82] died: Restless Spirit was killed
+[11Jan2025 04:13:08.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11Jan2025 04:13:27.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3630ms or 72 ticks behind
+[11Jan2025 04:13:47.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4738ms or 94 ticks behind
+[11Jan2025 04:14:05.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3119ms or 62 ticks behind
+[11Jan2025 04:14:20.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Wither Skeleton Wolf
+[11Jan2025 04:14:20.265] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[11Jan2025 04:14:22.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[11Jan2025 04:14:57.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11Jan2025 04:15:14.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[11Jan2025 04:15:34.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind

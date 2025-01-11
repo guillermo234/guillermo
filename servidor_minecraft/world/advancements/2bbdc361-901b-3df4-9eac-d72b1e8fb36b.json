@@ -310,6 +310,7 @@
       "minecraft:stray": "2024-12-29 21:25:33 +0000",
       "minecraft:silverfish": "2025-01-03 19:55:25 +0000",
       "minecraft:zombie": "2024-12-28 21:58:02 +0000",
+      "quark:foxhound": "2025-01-11 04:13:50 +0000",
       "minecraft:zombie_villager": "2025-01-03 19:01:10 +0000"
     },
     "done": false
@@ -870,11 +871,53 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-11 04:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-01-11 04:13:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-11 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-11 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-01-11 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-11 04:07:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-01-11 03:03:41 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-01-11 04:08:00 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
