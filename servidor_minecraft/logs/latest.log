@@ -622,3 +622,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 19:14:56.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ds o nada
 [11Jan2025 19:15:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> va
 [11Jan2025 19:15:19.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30823, l='ServerLevel[world]', x=18.04, y=-256.00, z=-1130.71] died, message: 'Villager was killed'
+[11Jan2025 19:27:48.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo moved wrongly!
+[11Jan2025 19:27:55.511] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=965, y=70, z=-795}
+[11Jan2025 19:29:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM was turned into KFC by Fire Dragon
+[11Jan2025 19:29:17.356] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
+[11Jan2025 19:29:58.217] [Server thread/WARN] [tombstone/]: The death event of the player Guillermo was canceled by another mod
+[11Jan2025 19:29:58.226] [Server thread/INFO] [tombstone/]: The player Guillermo has successfully been saved
