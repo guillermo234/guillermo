@@ -623,3 +623,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 02:23:36.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkSenior was blown up by Faller
 [11Jan2025 02:23:36.196] [Server thread/INFO] [tombstone/]: The player DarkSenior has successfully been saved
 [11Jan2025 02:32:23.864] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18450, l='ServerLevel[world]', x=-14.60, y=-256.00, z=-1207.79] died, message: 'Villager was killed'
+[11Jan2025 02:32:43.216] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18482, l='ServerLevel[world]', x=-125.57, y=-256.00, z=-417.00] died, message: 'Villager was killed'
+[11Jan2025 02:33:10.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzzz
+[11Jan2025 02:35:11.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkSenior> zzz
+[11Jan2025 02:35:18.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzz
