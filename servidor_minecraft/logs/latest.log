@@ -610,3 +610,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 17:33:42.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2942ms or 58 ticks behind
 [11Jan2025 17:33:42.750] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/1490, l='ServerLevel[world]', x=745.73, y=33.10, z=-141.59, removed=DISCARDED]
 [11Jan2025 17:38:16.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2278, l='ServerLevel[world]', x=728.59, y=-256.00, z=-166.49] died, message: 'Villager was killed'
+[11Jan2025 18:32:54.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23040, l='ServerLevel[world]', x=-125.31, y=-256.00, z=-417.09] died, message: 'Villager was killed'
+[11Jan2025 18:33:01.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23058, l='ServerLevel[world]', x=-131.40, y=-256.00, z=-408.00] died, message: 'Villager was killed'
+[11Jan2025 18:36:41.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ShandeMM: negro esta aqui mariano
+[11Jan2025 18:37:04.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> esa cgd anda en tu casa con el porro?
+[11Jan2025 18:37:21.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ShandeMM:  JAJAJAJAJA TAMBIEN TE DIJO A TI?
+[11Jan2025 18:37:30.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> si ps ese loco con mi abuela aca jajaj
