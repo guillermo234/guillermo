@@ -279,6 +279,7 @@
       "minecraft:piglin_brute": "2025-01-03 20:44:40 +0000",
       "minecraft:creeper": "2024-12-29 04:10:03 +0000",
       "minecraft:evoker": "2024-12-31 04:23:31 +0000",
+      "quark:forgotten": "2025-01-11 03:42:48 +0000",
       "minecraft:phantom": "2024-12-31 01:36:05 +0000",
       "minecraft:zombified_piglin": "2025-01-04 21:31:30 +0000",
       "minecraft:witch": "2024-12-31 04:37:45 +0000",
@@ -895,6 +896,12 @@
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2025-01-11 03:07:12 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-01-11 03:42:48 +0000"
     },
     "done": true
   },

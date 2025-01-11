@@ -987,3 +987,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 03:27:30.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [11Jan2025 03:27:49.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM was killed by Cave Spider using magic
 [11Jan2025 03:27:49.969] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
+[11Jan2025 03:35:47.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM was slain by Fire Beetle
+[11Jan2025 03:35:48.287] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
+[11Jan2025 03:36:41.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM was slain by Redcap
+[11Jan2025 03:36:41.110] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
+[11Jan2025 03:37:29.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM was shot by Skeleton
+[11Jan2025 03:37:29.064] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
+[11Jan2025 03:42:13.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM was slain by Forgotten
+[11Jan2025 03:42:14.221] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
+[11Jan2025 03:42:48.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has reached the goal [This Belongs in a Museum]
