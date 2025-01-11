@@ -1150,3 +1150,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 05:42:59.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzz
 [11Jan2025 05:55:23.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ZZZZ
 [11Jan2025 05:55:32.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzz
+[11Jan2025 06:06:46.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ZZ
+[11Jan2025 06:06:53.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/179807, l='ServerLevel[world]', x=-125.50, y=-256.00, z=-417.03] died, message: 'Villager was killed'
+[11Jan2025 06:18:00.812] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/189735, l='ServerLevel[world]', x=-125.56, y=-256.00, z=-407.88] died, message: 'Villager was killed'
