@@ -891,5 +891,17 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-01-11 03:07:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-01-11 03:07:12 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

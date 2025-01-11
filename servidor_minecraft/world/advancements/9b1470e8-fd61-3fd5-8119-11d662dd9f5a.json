@@ -862,5 +862,29 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "naga": "2025-01-11 03:07:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-01-11 03:07:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-01-11 03:03:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-01-11 03:07:12 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
