@@ -1140,3 +1140,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 04:38:28.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Bug Stomper]
 [11Jan2025 04:47:09.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo moved too quickly! 6.010666651995507,3.6310050973416583,7.994010120970415
 [11Jan2025 05:03:05.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM moved wrongly!
+[11Jan2025 05:26:10.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM moved too quickly! 26.961623183710664,104.32352912385574,7936.182421380801
