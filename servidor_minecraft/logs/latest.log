@@ -617,3 +617,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 18:37:21.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ShandeMM:  JAJAJAJAJA TAMBIEN TE DIJO A TI?
 [11Jan2025 18:37:30.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> si ps ese loco con mi abuela aca jajaj
 [11Jan2025 18:55:09.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26328, l='ServerLevel[world]', x=-125.31, y=-256.00, z=-417.09] died, message: 'Villager was killed'
+[11Jan2025 19:14:03.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guillermo[/100.72.57.89:57766] logged in with entity id 30630 at (-43.50278908966637, 111.0, -1131.6859041822638)
+[11Jan2025 19:14:03.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo joined the game
+[11Jan2025 19:14:56.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ds o nada
+[11Jan2025 19:15:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> va
+[11Jan2025 19:15:19.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30823, l='ServerLevel[world]', x=18.04, y=-256.00, z=-1130.71] died, message: 'Villager was killed'

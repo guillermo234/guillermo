@@ -865,40 +865,21 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-01-11 03:03:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "naga": "2025-01-11 03:07:12 +0000"
     },
     "done": true
   },
-  "twilightforest:arborist": {
-    "criteria": {
-      "twilight_oak_planks": "2025-01-11 04:54:26 +0000",
-      "twilight_oak_log": "2025-01-11 04:52:28 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "cooked_venison": "2025-01-11 03:46:53 +0000"
-    },
-    "done": false
-  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-01-11 03:07:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-01-11 05:38:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "in_tf": "2025-01-11 03:03:56 +0000"
     },
     "done": true
   },
@@ -914,9 +895,29 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_venison": "2025-01-11 03:46:53 +0000"
+    },
+    "done": false
+  },
   "twilightforest:hedge": {
     "criteria": {
       "swarm_spider": "2025-01-11 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-01-11 04:54:26 +0000",
+      "twilight_oak_slab": "2025-01-11 19:19:27 +0000",
+      "twilight_oak_log": "2025-01-11 04:52:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-11 05:38:50 +0000"
     },
     "done": true
   },
