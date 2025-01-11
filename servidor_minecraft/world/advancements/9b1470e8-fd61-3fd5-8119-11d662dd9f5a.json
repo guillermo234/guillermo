@@ -897,6 +897,7 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "torchberries": "2025-01-11 20:25:17 +0000",
       "cooked_venison": "2025-01-11 03:46:53 +0000"
     },
     "done": false
