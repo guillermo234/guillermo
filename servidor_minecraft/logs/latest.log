@@ -676,3 +676,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 04:27:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> la madre
 [12Jan2025 04:29:06.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkSenior[/100.88.70.10:53371] logged in with entity id 13956 at (-24.669220720907212, 95.0, -1209.5661783934993)
 [12Jan2025 04:29:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkSenior joined the game
+[12Jan2025 04:38:37.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17430, l='ServerLevel[world]', x=-125.59, y=-256.00, z=-417.12] died, message: 'Villager was killed'
