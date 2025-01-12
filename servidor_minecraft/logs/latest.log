@@ -693,3 +693,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 05:00:31.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzzzz
 [12Jan2025 05:00:45.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkSenior> zzzz
 [12Jan2025 05:00:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> voy
+[12Jan2025 05:15:40.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33726, l='ServerLevel[world]', x=-168.43, y=-256.00, z=-881.03] died, message: 'Villager was killed'
+[12Jan2025 05:17:21.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> mano
+[12Jan2025 05:17:23.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> en efecto
+[12Jan2025 05:17:34.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> me habia dejado una mochila con esmeralda y herramientas de diamante en la mina
+[12Jan2025 05:18:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> espera
+[12Jan2025 05:18:12.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> seas pendejo
+[12Jan2025 05:18:14.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> .-.
+[12Jan2025 05:18:23.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> estaba en un cofre
+[12Jan2025 05:18:30.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> xd
+[12Jan2025 05:18:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> te acuerdas de las coordenadas siquiera de tu cofre?
+[12Jan2025 05:18:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> si lo encontre
+[12Jan2025 05:18:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> o sea que si lo encuentro es mi loot?
+[12Jan2025 05:18:48.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> aaaaaaaaaaa
