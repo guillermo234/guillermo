@@ -661,3 +661,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 04:15:20.272] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [12Jan2025 04:16:40.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
 [12Jan2025 04:17:02.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Nightmare Fuel]
+[12Jan2025 04:17:41.621] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/7600, l='ServerLevel[world]', x=197.52, y=-20.00, z=-95.47] died: Restless Spirit was killed
+[12Jan2025 04:19:26.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guillermo[/100.72.57.89:50045] logged in with entity id 9079 at (5.473260291959781, 118.0, -1138.2435075264905)
+[12Jan2025 04:19:26.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo joined the game
+[12Jan2025 04:20:17.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9849, l='ServerLevel[world]', x=18.04, y=-256.00, z=-1130.71] died, message: 'Villager was killed'
+[12Jan2025 04:20:39.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/7745, l='ServerLevel[world]', x=61.92, y=-20.00, z=-127.27] died: Restless Spirit was killed
+[12Jan2025 04:20:39.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/7747, l='ServerLevel[world]', x=79.85, y=-20.00, z=-98.20] died: Restless Spirit was killed
+[12Jan2025 04:21:22.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/7872, l='ServerLevel[world]', x=44.60, y=-20.00, z=-129.41] died: Restless Spirit was killed
+[12Jan2025 04:23:17.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzzzz
+[12Jan2025 04:26:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> te fuiste del spawn?
+[12Jan2025 04:26:37.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ye
+[12Jan2025 04:26:52.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> tmar queria probar una vaina
