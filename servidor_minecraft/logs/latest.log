@@ -644,3 +644,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 04:06:02.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> JAJAJAJJAJA
 [12Jan2025 04:06:32.090] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5547, l='ServerLevel[world]', x=-20.99, y=-256.00, z=-1216.69] died, message: 'Villager was killed'
 [12Jan2025 04:06:42.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> siento que me falta una mochila
+[12Jan2025 04:06:50.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> quieres una?
+[12Jan2025 04:06:54.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> tengo 8
+[12Jan2025 04:06:56.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> hahahahha
+[12Jan2025 04:06:57.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> no osea, una con items
+[12Jan2025 04:07:06.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> no la tendras puesta=
+[12Jan2025 04:07:08.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ?
+[12Jan2025 04:07:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> nana no se si me falta una, o si deje todo en otro lado
+[12Jan2025 04:07:47.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> de aqui reviso
+[12Jan2025 04:08:54.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> no hay poder vi no?
+[12Jan2025 04:09:38.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> nop
+[12Jan2025 04:09:45.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> solo con esos libros especiales
+[12Jan2025 04:15:01.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> que tu hace
+[12Jan2025 04:15:20.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo lost connection: Timed out
+[12Jan2025 04:15:20.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo left the game
+[12Jan2025 04:15:20.272] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jan2025 04:16:40.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
+[12Jan2025 04:17:02.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Nightmare Fuel]
