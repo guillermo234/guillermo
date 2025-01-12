@@ -607,3 +607,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 08:50:25.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to -22.500000, 97.000000, -1189.500000]
 [12Jan2025 08:50:28.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to -22.500000, 97.000000, -1189.500000]
 [12Jan2025 08:50:30.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to -22.500000, 97.000000, -1189.500000]
+[12Jan2025 08:50:42.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to -22.500000, 97.000000, -1189.500000]
+[12Jan2025 08:52:29.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to -22.500000, 97.000000, -1189.500000]
+[12Jan2025 08:54:36.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported zaitsevv to 6.500000, 105.000000, -1107.500000]
+[12Jan2025 08:54:45.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported zaitsevv to -63.500000, 112.000000, -1137.500000]
+[12Jan2025 08:54:50.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported zaitsevv to -22.500000, 97.000000, -1189.500000]
+[12Jan2025 08:54:53.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported zaitsevv to 6.500000, 105.000000, -1107.500000]
+[12Jan2025 09:09:19.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11685, l='ServerLevel[world]', x=-20.99, y=-256.00, z=-1216.69] died, message: 'Villager was killed'
+[12Jan2025 09:09:35.558] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:gorgon_temple took 70 ms
+[12Jan2025 09:09:47.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to -1519.500000, 109.975821, -303.500000]
+[12Jan2025 09:10:01.511] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1601, y=-37, z=-93}

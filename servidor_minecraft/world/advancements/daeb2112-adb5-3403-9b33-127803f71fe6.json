@@ -259,5 +259,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-12 08:46:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
