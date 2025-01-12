@@ -245,6 +245,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-10 04:29:41 +0000",
       "minecraft:skeleton": "2025-01-03 03:15:51 +0000",
+      "minecraft:spider": "2025-01-12 05:25:30 +0000",
       "minecraft:cave_spider": "2025-01-03 05:49:01 +0000",
       "minecraft:stray": "2025-01-03 04:02:53 +0000",
       "minecraft:zombie": "2025-01-03 21:13:37 +0000"
@@ -429,6 +430,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-01-10 05:48:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-01-12 05:22:02 +0000"
     },
     "done": true
   },
