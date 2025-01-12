@@ -946,6 +946,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-12 05:48:14 +0000"
+    },
+    "done": false
+  },
   "undead_revamp2:oneskelly": {
     "criteria": {
       "oneskelly": "2025-01-12 05:37:13 +0000"
