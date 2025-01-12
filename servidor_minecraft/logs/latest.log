@@ -672,3 +672,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 04:26:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> te fuiste del spawn?
 [12Jan2025 04:26:37.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ye
 [12Jan2025 04:26:52.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> tmar queria probar una vaina
+[12Jan2025 04:27:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [Splintering II]
+[12Jan2025 04:27:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> la madre
+[12Jan2025 04:29:06.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkSenior[/100.88.70.10:53371] logged in with entity id 13956 at (-24.669220720907212, 95.0, -1209.5661783934993)
+[12Jan2025 04:29:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkSenior joined the game
