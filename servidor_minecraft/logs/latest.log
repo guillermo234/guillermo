@@ -617,3 +617,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 09:09:35.558] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:gorgon_temple took 70 ms
 [12Jan2025 09:09:47.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to -1519.500000, 109.975821, -303.500000]
 [12Jan2025 09:10:01.511] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1601, y=-37, z=-93}
+[12Jan2025 09:11:08.848] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:gorgon_temple took 0 ms
+[12Jan2025 09:11:12.742] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:gorgon_temple took 0 ms
+[12Jan2025 09:11:19.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to 6.500000, 105.500000, -1107.500000]
+[12Jan2025 09:13:00.530] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:graveyard took 0 ms
+[12Jan2025 09:13:05.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to 16.500000, 105.000000, -1039.500000]
+[12Jan2025 09:13:45.384] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:mausoleum took 1 ms
+[12Jan2025 09:13:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to -431.500000, 105.368625, -1791.500000]
+[12Jan2025 09:15:08.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Set own game mode to Spectator Mode]
+[12Jan2025 09:17:42.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Set own game mode to Creative Mode]
+[12Jan2025 09:18:17.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to 16.500000, 103.000000, -1039.500000]
+[12Jan2025 09:18:50.393] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:abandoned_temple took 0 ms
+[12Jan2025 09:18:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to 144.500000, 105.000000, -1039.500000]
+[12Jan2025 09:19:03.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Set own game mode to Spectator Mode]
+[12Jan2025 09:19:43.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to 144.500000, 155.074610, -1039.500000]
+[12Jan2025 09:20:11.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Set own game mode to Creative Mode]
+[12Jan2025 09:20:33.755] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:bandit_towers took 3915 ms
+[12Jan2025 09:20:33.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3901ms or 78 ticks behind
+[12Jan2025 09:20:34.224] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:bandit_towers took 59 ms
+[12Jan2025 09:20:45.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Teleported zaitsevv to -8639.500000, 109.415057, -9471.500000]
+[12Jan2025 09:20:52.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaitsevv has made the advancement [What Happens in Las Vegas...]
+[12Jan2025 09:20:54.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5416ms or 108 ticks behind
